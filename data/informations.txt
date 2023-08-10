@@ -76,3 +76,23 @@ FIFO: Fisrt In First Out
 - Back (fundo) é a referência de último elemento a entrar na fila 
 (Enqueue) significa que está entrando na fila 
 (Dequeue) significa que está saindo da fila
+
+# Queue no código
+
+Métodos fundamentais
+Enqueue(): Adicionar um elemento ao final da fila
+Dequeue(): Remover o primeiro elemento a entrar na fila
+
+Outros métodos poderão ser implementados como size() para mostrar o tamanho da fila ou front()
+para pegar o primeiro da fila, dentre tantos outros.
+
+* Visão geral
+- Usamos ED para gerenciar os dados, as informações da nossa aplicação
+- Organizar, ordenar, buscar, são algumas funcionalidades básicas.
+- Melhorar a escrita de algoritmos.
+- Melhorar a eficiência dos nossos aplicativos.
+- Existem muitas estruturas a serem estudadas.
+
+Estrutura de dados poderá ser um assunto um pouco desafiador, especialmente para quem está no começo
+da jornada. Mas como qualquer outra habilidade, com o passar do tempo e prática diária, através de desafios
+da carreira, poderemos entender cada vez melhor.
