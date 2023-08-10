@@ -1,0 +1,31 @@
+* ESTRUTURA DE DADOS
+
+Conhecimentos prévios
+- Introdução a programação Web e conceitos básicos 
+- Bloco de notas
+- Editor de texto
+- Navegador ou Node JS (execução do código)
+
+Por que estudar estrutura de dados?
+- Organizar os dados da aplicação 
+- Entender estruturas para melhor tomada de decisão 
+- Escrever melhores algoritmos
+- Eficiência
+- Empresas usam como requisito
+
+O que é estrutura de dados?
+- Uma maneira de organizar e ordenar informações e registra-los na memória do computador como:
+- texto 
+- números
+- booleanos
+
+* Organizar dados (informações)
+* Textos, números, booleanos.
+* Como estão registrados na memória
+
+# Arrays
+Arrays, vetor ou arranjo é uma estrutura amplamente utilizada e implementada em quase todas as 
+linguagens de programação
+
+Uma das estruturas mais básicas e simples de criar e utilizar 
+['a', 10, 'id', true] // total de 4 elementos
